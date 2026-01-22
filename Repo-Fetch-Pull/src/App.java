@@ -1,6 +1,6 @@
 public class App {
 	
     public static void main(String[] args) {
-        System.out.println("Aplicación iniciada");
+        System.out.println("Mensaje modificado desde GitHub");
     }
 } 
